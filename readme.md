@@ -14,6 +14,11 @@ Rfd-scrapper fetches data in the following format:
 ```
 All entries are sorted by post creation date.
 
+## Installation
+```
+$ npm install rfd-scrapper --save
+```
+
 ## Usage
 ```js
 const rfdScrapper = require('rfd-scrapper');
