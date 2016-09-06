@@ -28,4 +28,4 @@ Fetches posts from http://forums.redflagdeals.com
 - **Object** `options`: An object containing the following fields:
   - `days` (Number): Possible values: `0` - all, `1` - one day, `7` - week, `30` - month
   - `limit` (Number): Number of pages to scrap
-  - `direction` (String): Sorting direction. Must be either `a` or `b`
+  - `direction` (String): Sorting direction: must be either `a` - ascending or `d` - descending
