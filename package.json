@@ -1,0 +1,17 @@
+{
+  "name": "rfd-scrapper",
+  "version": "1.0.0",
+  "description": "A shameless redflagdeals.com scrapper",
+  "main": "index.js",
+  "repository": "rfd-scrapper",
+  "keywords": [
+    "scrapper",
+    "rfd",
+    "redflagdeals"
+  ],
+  "author": "Philipp Alferov <philipp.alferov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "x-ray": "^2.3.0"
+  }
+}
